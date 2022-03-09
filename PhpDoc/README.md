@@ -1,0 +1,1 @@
+## Deference Between type hinting in phpdoc and function decleration
